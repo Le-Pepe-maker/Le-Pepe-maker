@@ -7,5 +7,5 @@ Hi, I am Gadiel. I am a Telecommunications Engineering student with a passion fo
 - 💬 Ask me about Cloud infrastructure and network automation
 
 ### Sample Projects
-- **My-Fashion-Store:** A fashion website created with a full running backend. [Link to repo]
-- **Cloud-Accelerator-Labs:** My journey on data and cloud management. [Link to repo]
+- **My-Fashion-Store:** A fashion website created with a full running backend. [View Repository](https://github.com/Le-Pepe-maker/My-Fashion-Store)
+- **Cloud-Accelerator-Labs:** My journey on data and cloud management. [View Repository](https://github.com/Le-Pepe-maker/Cloud-Accelerator-Labs)
