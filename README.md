@@ -12,7 +12,7 @@ Hi, I am Gadiel. I am a Telecommunications Engineering student with a passion fo
 
 ### Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Huawei](https://img.shields.io/badge/Huawei-E61D2B?style=for-the-badge&logo=huawei&logoColor=white)
+![Huawei VRP and Datacom](https://img.shields.io/badge/Huawei_VRP_and_Datacom-%23FF0000?style=for-the-badge&logo=huawei&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
